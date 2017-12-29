@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zsxsoft/cordova-plugin-x5-tbs.git"
+    "url": "git+https://github.com/huatech2016/cordova-plugin-x5-tbs.git"
   },
   "bugs": {
     "url": "https://github.com/zsxsoft/cordova-plugin-x5-tbs/issues"
